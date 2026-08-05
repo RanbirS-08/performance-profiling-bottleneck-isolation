@@ -1,0 +1,11 @@
+setting,baseline_value,optimized_value,after_before_ratio,percent_reduction_if_lower_is_less_load,reason
+distance,44,192,4.3636,,dungeon spacing; larger means less frequent generated dungeons
+chance,0.25,0.01,0.04,96.0,tower generation chance; lower means rarer towers
+typeSpawnLimit,10,4,0.4,60.0,per-type spawn limit
+spawnLimitRange,56.0,72.0,1.2857,,spawn limit check range
+spawnWeightScale,0.065,0.02,0.3077,69.2,global spawn weight scale
+dungeonSpawnerWeightScale,0.85,0.10,0.1176,88.2,dungeon spawner entity weight scale
+duration,12000,6000,0.5,50.0,random event duration
+min,0,0,,,minimum random event interval in ticks
+max,144000,1440000,10.0,,maximum random event interval in ticks
+derived_dungeon_density,distance=44,distance=192,0.0525,94.7,spatial density scales approximately with inverse square of spacing

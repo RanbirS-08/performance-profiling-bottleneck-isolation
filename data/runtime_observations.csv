@@ -1,0 +1,5 @@
+observation,meaning,evidence_type
+Chunks loaded slowly while moving forward.,New region generation was stressing the server thread.,runtime observation + overload logs
+Mobs floated or delayed before moving slightly.,Entity updates were not being processed smoothly.,runtime observation + Spark/server-thread evidence
+High FPS did not prevent low TPS.,The main issue was not graphics rendering.,screenshot + Spark/log evidence
+Lag improved after mod/config changes.,"The bottleneck tracked with subsystem and configuration changes, not seed alone.",log sequence + config evidence

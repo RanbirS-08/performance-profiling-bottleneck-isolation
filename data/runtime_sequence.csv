@@ -1,0 +1,5 @@
+run_id,start_time,test_state,world_seed_status,meaningful_changed_variable,overload_warning_count,max_tick_delay_ms,total_tick_delay_ms,max_ticks_behind,total_ticks_behind,template_pool_warning_count,view_range_warning_count,sound_openal_error_count,dimension_save_mention_count,source_log
+run_08,21:58:57,initial heavy runtime state,varied but not observed to drive the result,mod set and configuration changes,41,48576,311200,971,6205,20,89,232,171,logs/initial_run.log.txt
+run_09,22:31:33,after first removal/config pass,varied but not observed to drive the result,mod set and configuration changes,14,15706,67674,314,1349,5,0,0,54,logs/first_pass.log.txt
+run_10,22:46:32,after additional removal/config pass,varied but not observed to drive the result,mod set and configuration changes,7,7692,29327,153,582,3,0,0,27,logs/second_pass.log.txt
+run_11,23:05:54,final observed runtime state,varied but not observed to drive the result,mod set and configuration changes,2,3978,6259,79,124,0,0,0,36,logs/post_change.log.txt

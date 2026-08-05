@@ -1,0 +1,5 @@
+run_id,runtime_state,start_time,observed_window_min,overload_warnings,warnings_per_min,max_tick_delay_ms,total_tick_delay_ms,delay_ms_per_min,total_ticks_behind,ticks_behind_per_min,template_pool_warnings,dimension_save_mentions
+run_08,initial heavy runtime state,21:58:57,27.05,41,1.516,48576,311200,11504.6,6205,229.39,20,171
+run_09,after first removal/config pass,22:31:33,12.13,14,1.154,15706,67674,5577.5,1349,111.18,5,54
+run_10,after additional removal/config pass,22:46:32,7.52,7,0.931,7692,29327,3901.6,582,77.43,3,27
+run_11,final observed runtime state,23:05:54,14.63,2,0.137,3978,6259,427.7,124,8.47,0,36

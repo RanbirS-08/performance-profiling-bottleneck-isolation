@@ -1,0 +1,23 @@
+log_file,time,distance_type,new_value,old_value,interpretation
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:01:37,view,8,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:01:37,simulation,8,0,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:03:22,view,18,8,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:05:03,view,32,18,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:13:59,view,32,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:13:59,simulation,8,0,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:16:47,view,32,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:16:47,simulation,8,0,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:19:10,view,10,32,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_21-58-57_08_server_thread_overload.log.txt,22:20:52,view,32,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-31-33_09_server_thread_overload.log.txt,22:34:09,view,32,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-31-33_09_server_thread_overload.log.txt,22:34:09,simulation,8,0,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-31-33_09_server_thread_overload.log.txt,22:37:59,simulation,32,8,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-31-33_09_server_thread_overload.log.txt,22:38:39,view,10,32,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-31-33_09_server_thread_overload.log.txt,22:38:39,simulation,10,32,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-31-33_09_server_thread_overload.log.txt,22:39:50,simulation,32,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-31-33_09_server_thread_overload.log.txt,22:41:17,view,20,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-46-32_10_server_thread_overload.log.txt,22:48:23,view,20,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_22-46-32_10_server_thread_overload.log.txt,22:48:23,simulation,32,0,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_23-05-54_11_server_thread_overload.log.txt,23:10:33,view,20,10,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_23-05-54_11_server_thread_overload.log.txt,23:10:33,simulation,32,0,distance setting shown directly in log
+logs/sanitized/2026-06-05/2026-06-05_23-05-54_11_server_thread_overload.log.txt,23:17:32,view,32,20,distance setting shown directly in log

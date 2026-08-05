@@ -1,0 +1,4 @@
+spark_capture_id,profile_duration,ticks_recorded,tps_1m,tps_5m,tps_15m,mspt_median,mspt_p95,mspt_max,budget_multiple
+spark_screenshot_01_general_runtime_profile,10m 20s,8379,19.0,14.25,14.96,14.3,29.9,12800,256.0
+spark_screenshot_02_mods_view_profile,3m 43s,3780,15.06,10.07,14.55,10.4,16.5,16100,322.0
+spark_screenshot_03_subsystem_profile,1m 1s,539,8.65,13.65,17.31,17.8,30.0,15300,306.0

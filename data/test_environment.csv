@@ -1,0 +1,14 @@
+category,details,source
+CPU,AMD Ryzen 7 7800X3D,user hardware note
+GPU,AMD Radeon RX 7900 XT,user hardware note
+Total RAM,32 GB,user hardware note
+Process memory visible in Spark,"6.8/8.4 GB, 7.9/9.3 GB, and 7.3/11.2 GB across retained screenshots",Spark screenshot metrics
+OS,Windows 11 amd64,Spark screenshots
+Java version,17.0.15,Spark screenshots
+Runtime/server version,Forge 47.4.20 / Minecraft 1.20.1,Spark screenshots and logs
+Player count,1 in retained Spark profiler captures,Spark screenshots
+World seed,"Varied, but not observed to explain the performance change",experiment note
+Primary changed variables,mod set and configuration values,"configs, logs, troubleshooting sequence"
+Render distance,32 chunks,user clarification + log evidence
+Simulation distance,32 chunks,user clarification + log evidence
+Benchmark action,Travel forward to load chunks and attack mobs to test entity response lag.,user experiment note
