@@ -18,7 +18,6 @@ These screenshots are the retained visual evidence from the troubleshooting proc
 | `reference_document_page_03.png` | Reference document page retained with the original evidence set. |
 | `reference_document_page_04.png` | Reference document page retained with the original evidence set. |
 | `report_charts_page.png` | Earlier report page containing generated charts. |
-| `report_visual_evidence_page.png` | Earlier report page showing visual evidence and interpretation. |
 | `server_console_monitor_photo.jpg` | Photograph of the running server console. |
 | `dimension_save_log_photo.jpg` | Photograph of dimension save and server log output. |
 | `chunk_loading_visual_artifact.jpg` | In-game visual artifact observed during chunk loading. |
