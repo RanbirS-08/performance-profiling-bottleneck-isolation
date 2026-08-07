@@ -15,8 +15,6 @@ These screenshots are the retained visual evidence from the troubleshooting proc
 | `spark_lycanites_profile.png` | Spark profile focused on Lycanites Mobs activity. |
 | `spark_lycanites_breakdown.png` | Lycanites Mobs server-thread event breakdown. |
 | `spark_timeline_detail.png` | Close view of the Spark profiler timeline. |
-| `reference_document_page_03.png` | Reference document page retained with the original evidence set. |
-| `reference_document_page_04.png` | Reference document page retained with the original evidence set. |
 | `report_charts_page.png` | Earlier report page containing generated charts. |
 | `server_console_monitor_photo.jpg` | Photograph of the running server console. |
 | `dimension_save_log_photo.jpg` | Photograph of dimension save and server log output. |
